@@ -1,4 +1,4 @@
-# Snowflake Intelligence HOL
+
 
 ## Load Festival Data
 
